@@ -1,0 +1,20 @@
+/* CSS Reset */
+* {
+  margin: 0;
+}
+.container {
+  color: aqua;
+}
+header {
+  color: white;
+  background-color: gray;
+  height: 50px;
+}
+main {
+  height: calc(100vh-50px-50px);
+  background-color: lightcoral;
+}
+footer {
+  background-color: gray;
+  height: 50px;
+}
