@@ -9,6 +9,7 @@ header {
   color: white;
   background-color: gray;
   height: 50px;
+  text-align: center;
 }
 main {
   height: calc(100vh-50px-50px);
@@ -17,4 +18,10 @@ main {
 footer {
   background-color: gray;
   height: 50px;
+}
+.first {
+  background-color: brown;
+}
+.second {
+  background-color: yellow;
 }
